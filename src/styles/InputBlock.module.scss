@@ -1,0 +1,28 @@
+.root {
+  width: 100%;
+
+  .search {
+    position: relative;
+
+    input {
+      width: 1090px;
+
+      padding: 15px;
+
+      font-size: 22px;
+      font-style: normal;
+      line-height: 30px;
+      font-weight: 400;
+
+      border-radius: 24px;
+      border: 1px solid var(--Blueberry, #d4defe);
+    }
+
+    svg {
+      position: absolute;
+
+      top: 20px;
+      right: 10px;
+    }
+  }
+}

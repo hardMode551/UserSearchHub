@@ -1,0 +1,22 @@
+.root {
+  width: 700px;
+
+  margin: 0 auto;
+  margin-top: 40px;
+
+  color: var(--plumbum, #262c40);
+
+  h1 {
+    font-size: 34px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 30px;
+  }
+
+  p {
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 18px;
+  }
+}
